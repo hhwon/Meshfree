@@ -1,1 +1,2 @@
 # Meshfree
+这里是我在学习meshfree method时的一些想法以及将自行编写的matlab代码托管于此。
